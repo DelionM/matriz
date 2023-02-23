@@ -1,0 +1,30 @@
+c:\users\investor_dm_\documents\visual studio 2015\Projects\matriz\matriz\bin\Debug\matriz.exe.config
+c:\users\investor_dm_\documents\visual studio 2015\Projects\matriz\matriz\bin\Debug\matriz.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\matriz\matriz\bin\Debug\matriz.pdb
+c:\users\investor_dm_\documents\visual studio 2015\Projects\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\matriz\matriz\obj\Debug\matriz.Form1.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\matriz\matriz\obj\Debug\matriz.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\matriz\matriz\obj\Debug\matriz.pdb
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\matriz\matriz\obj\Debug\matriz.FORMS.FormSuma.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\matriz\matriz\obj\Debug\matriz.Forms.Escala.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\matriz\matriz\obj\Debug\matriz.Forms.Introducción.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\matriz\matriz\obj\Debug\matriz.Forms.Producto.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\matriz\matriz\obj\Debug\matriz.Forms.Resta.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\matriz\matriz\obj\Debug\matriz.Forms.Trasposicion.resources
+P:\Projects C#\matriz\matriz\bin\Debug\matriz.exe.config
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.exe
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.pdb
+P:\Projects C#\matriz\matriz\bin\Debug\matriz.exe
+P:\Projects C#\matriz\matriz\bin\Debug\matriz.pdb
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.csprojResolveAssemblyReference.cache
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.Form1.resources
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.Forms.Escala.resources
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.Forms.Introducción.resources
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.Forms.Producto.resources
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.Forms.Resta.resources
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.FORMS.FormSuma.resources
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.Forms.Trasposicion.resources
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.Properties.Resources.resources
+P:\Projects C#\matriz\matriz\obj\Debug\matriz.csproj.GenerateResource.Cache
